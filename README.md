@@ -1,12 +1,49 @@
-# React + Vite
+#  Dragon Ball App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Inspirado en la [Dragon Ball API](https://web.dragonball-api.com/). Permite explorar personajes de la serie **Dragon Ball**. Incluye vista por categorías, página de detalle y funcionalidad de búsqueda.
 
-Currently, two official plugins are available:
+## 🚀 Características
+- 📂 **Exploración por categorías**  
+  Encuentra personajes según su clasificación.
+- 🔍 **Búsqueda**  
+  Búsqueda de personajes por nombre.
+- 📜 **Vista de detalle**  
+  Obtén información detallada de cada personaje.
+- 🎨 **Diseño**  
+  UI creada con Tailwind y DaisyUI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Imágenes
 
-## Expanding the ESLint configuration
+![Vista de inicio](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/dragon_ball_0.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Vista de personajes](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/dragon_ball_1.png)
+
+![Página de detalle](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/dragon_ball_2.png)
+
+## 🚀 Instalación
+
+### 1️⃣ Clonar el proyecto
+Para clonar el repositorio desde GitHub, usa el siguiente comando:
+
+```bash
+git clone <https://github.com/tetohc/DragonBall-React.git>
+```
+### 2️⃣ Acceder al directorio del proyecto
+```bash
+cd dragonball-spa
+```
+### 3️⃣ Instalar dependencias
+```bash
+yarn install
+```
+### 4️⃣ Ejecutar el proyecto
+```
+yarn vite
+````
+
+## Tecnologías utilizadas
+
+- [Vite + React](https://vitejs.dev/) 
+- [Tailwind CSS](https://tailwindcss.com/) 
+- [DaisyUI](https://daisyui.com/) 
+- [React Router 7](https://reactrouter.com/) 
