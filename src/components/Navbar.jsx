@@ -50,7 +50,7 @@ export const Navbar = () => {
                             </li>
                         </ul>
                     </div>
-                    <img src="/src/assets/images/dragon_ball_logo.png" alt="Dragon Ball Logo"
+                    <img src="/images/dragon_ball_logo.png" alt="Dragon Ball Logo"
                         loading="lazy" className="ml-2 cursor-pointer w-38 transition duration-125 hover:scale-120"
                         onClick={onLogoClick} />
                 </div>

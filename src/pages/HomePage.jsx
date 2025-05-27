@@ -13,7 +13,7 @@ export const HomePage = () => {
         className="hero min-h-screen"
         style={{
           backgroundImage:
-            "url(public/images/ultra_instinct_goku.webp)",
+            "url(images/ultra_instinct_goku.webp)",
         }}
       >
         <div className="hero-overlay"></div>
